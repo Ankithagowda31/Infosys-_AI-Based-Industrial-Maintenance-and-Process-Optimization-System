@@ -1,1 +1,0 @@
-FEATURES = ["temperature", "pressure", "vibration"]
