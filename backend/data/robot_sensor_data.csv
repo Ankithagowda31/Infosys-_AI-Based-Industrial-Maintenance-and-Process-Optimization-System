@@ -1,0 +1,7 @@
+temperature,vibration,status
+35,4,Healthy
+40,5,Healthy
+45,6,Healthy
+60,8,Maintenance Required
+70,10,Maintenance Required
+80,15,Maintenance Required
